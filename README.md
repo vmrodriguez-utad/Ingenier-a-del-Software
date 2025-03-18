@@ -1,2 +1,2 @@
-# Ingenier-a-del-Software
+# Ingenieria-del-Software
 Practica Ingenieria del Software
